@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SsebunyaJesse
 - 👀 I’m interested in evolving technologies.
 - 🌱 I’m currently learning machine learning 
+- Checkout my BlogPosts
 - i cook sometimes
 
 <!---
