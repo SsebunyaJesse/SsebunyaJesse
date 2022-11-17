@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGex4zP_XKAne2cdZxU4ABCgjuidRrLKhwlA&usqp=CAU">
+<img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-banner-design-template-61084152870e4a055056a7efc73a2359_screen.jpg?ts=1569136045" height="100%" width="100%" align="center">
 <h1 align="center">Hi 👋, I'm Ssebunya Jesse Clevis</h1>
 <h3 align="center">A full stack developer from UG</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,11 +7,15 @@
 
 - 📝 I write articles on [https://medium.com/@jesseclevisjc](https://medium.com/@jesseclevisjc)
 
-- 💬 Ask me about **Vue Js ,MERN**
+- 💬 Ask me about **Next Js, Prisma, Swagger UI,  **
 
 - 📫 How to reach me **jesseclevisjc@gmail.com**
 
 - ⚡ Fun fact **I am usually hungry**
+
+
+<h1 align="center">Have a look at my projects</h1>
+<h3 align="center">Hope you get some inspiration from there</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssebunyajesse" alt="ssebunyajesse" /></a> </p>
