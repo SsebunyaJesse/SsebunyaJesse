@@ -3,10 +3,6 @@
 <h3 align="center">A full stack developer from UG</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssebunyajesse" alt="ssebunyajesse" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ssebunya_jesse" target="blank"><img src="https://img.shields.io/twitter/follow/ssebunyajesse?logo=twitter&style=for-the-badge" alt="ssebunyajesse" /></a> </p>
-
 - 🌱 I’m currently learning **Nuxt Js GraphQL**
 
 - 📝 I write articles on [https://medium.com/@jesseclevisjc](https://medium.com/@jesseclevisjc)
@@ -16,6 +12,13 @@
 - 📫 How to reach me **jesseclevisjc@gmail.com**
 
 - ⚡ Fun fact **I am usually hungry**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssebunyajesse" alt="ssebunyajesse" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ssebunya_jesse" target="blank"><img src="https://img.shields.io/twitter/follow/ssebunyajesse?logo=twitter&style=for-the-badge" alt="ssebunyajesse" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
